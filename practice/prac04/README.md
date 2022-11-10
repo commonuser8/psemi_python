@@ -54,6 +54,11 @@ list_n の各要素について、値が 0 のとき " ", 値が 1 のとき "*"
  * *
 ```
 
+## ヒント
+
+- [問題内容の図解など](https://docs.google.com/presentation/d/1svAJAu1n6IeY2lfBRc0RE0mkgV63xBE0/edit?usp=share_link&ouid=117162782641736606590&rtpof=true&sd=true)
+- [穴あきコード](hint.py)
+
 ## 提出
 
 `共有フォルダ` に `ディレクトリ名/ファイル名` の形式で提出してください。
