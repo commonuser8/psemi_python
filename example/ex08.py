@@ -9,7 +9,7 @@ def decorate_print(string):  # 引数の文字列を 10 回出力する関数
         print()
 
 
-def print_string(lists, string):  # リストと文字列を受け取り、文字列を decorate_print に渡してリストを出力する関数
+def print_string(li, string):  # リストと文字列を受け取り、文字列を decorate_print に渡してリストを出力する関数
     # decorate_print に引数の文字列 string を渡す
 
     # リストの要素を、先頭に 1 から順番に番号と ":" をつけながら一行ずつ表示する
